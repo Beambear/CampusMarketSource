@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5204e6d0-7e18-498a-8fa1-53057287e22e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web/.env.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/static/js/session-storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/static/js/tool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/css/html.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/K.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/demo_fontclass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/demo_symbol.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/demo_unicode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/img/anonymous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/img/default_product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/img/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/img/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/img/very_sorry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/img/wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/js/editor-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/TheEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/TheFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/TheHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/store/StoreInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/store/StoreMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/store/StoreOrder.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/store/StoreProduct.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/user/UserAddress.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/user/UserInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/user/UserOrder.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Pay.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Product.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/ProductDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/ProductDetailView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Shop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Store.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/User.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/assets/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectId" id="28epXRAkFTZ5cgTjpbIEa6DA33k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProductService/src/main/resources/mapper/my" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea_project\CampusMarket\web\src\views" />
+      <recent name="D:\idea_project\CampusMarket\web\public\static" />
+      <recent name="D:\idea_project\CampusMarket\web\src\assets\img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yjq.programmer.dao.my" />
+      <recent name="com.yjq.programmer.exception" />
+      <recent name="com.yjq.programmer.utils" />
+      <recent name="com.yjq.programmer.feignclient" />
+      <recent name="com.yjq.programmer.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_project\CampusMarket\ProductService\src\main\resources\mapper\my" />
+      <recent name="D:\idea_project\CampusMarket\StoreService\src\main\resources\mapper\my" />
+      <recent name="D:\idea_project\CampusMarket\StoreService\src\main\java\com\yjq\programmer\domain" />
+      <recent name="D:\idea_project\CampusMarket\UserService\src\main\java\com\yjq\programmer\util" />
+      <recent name="D:\idea_project\CampusMarket\StoreService\src\main\java\com\yjq\programmer\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.web">
+    <configuration name="product-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/ProductService" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="store-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/StoreService" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="user-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/UserService" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="GateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="GateWay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjq.programmer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yjq.programmer.GateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ProductService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yjq.programmer.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="StoreService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yjq.programmer.StoreServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjq.programmer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yjq.programmer.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="UserService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yjq.programmer.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="admin" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/admin/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve-dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="web" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve-dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.user-generator" />
+      <item itemvalue="Maven.product-generator" />
+      <item itemvalue="Maven.store-generator" />
+      <item itemvalue="npm.admin" />
+      <item itemvalue="npm.web" />
+      <item itemvalue="Spring Boot.UserServiceApplication" />
+      <item itemvalue="Spring Boot.ProductServiceApplication" />
+      <item itemvalue="Spring Boot.StoreServiceApplication" />
+      <item itemvalue="Spring Boot.GateWayApplication" />
+      <item itemvalue="Spring Boot.SystemApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SystemApplication" />
+        <item itemvalue="Spring Boot.GateWayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5204e6d0-7e18-498a-8fa1-53057287e22e" name="Default Changelist" comment="" />
+      <created>1651586944806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651586944806</updated>
+      <workItem from="1651586947619" duration="1400000" />
+      <workItem from="1656153399932" duration="601000" />
+      <workItem from="1656245609997" duration="13934000" />
+      <workItem from="1656323540462" duration="69932000" />
+      <workItem from="1656643545491" duration="53000" />
+      <workItem from="1656659247186" duration="287000" />
+      <workItem from="1656663931440" duration="32542000" />
+      <workItem from="1656839137447" duration="13916000" />
+      <workItem from="1656893941970" duration="1383000" />
+      <workItem from="1656913522304" duration="1273000" />
+      <workItem from="1656936698170" duration="6649000" />
+      <workItem from="1656984637256" duration="10783000" />
+      <workItem from="1657009236337" duration="1115000" />
+      <workItem from="1657079704161" duration="9762000" />
+      <workItem from="1657173691379" duration="30625000" />
+      <workItem from="1657289796743" duration="3913000" />
+      <workItem from="1657335761683" duration="32559000" />
+      <workItem from="1657703581720" duration="3134000" />
+      <workItem from="1657765769239" duration="31000" />
+      <workItem from="1657801566561" duration="1713000" />
+      <workItem from="1657887500804" duration="413000" />
+      <workItem from="1657947186740" duration="11967000" />
+      <workItem from="1657983506456" duration="15209000" />
+      <workItem from="1658107683748" duration="5000" />
+      <workItem from="1658128757080" duration="1232000" />
+      <workItem from="1658197567389" duration="342000" />
+      <workItem from="1658208632866" duration="7388000" />
+      <workItem from="1658578089997" duration="21317000" />
+      <workItem from="1658723265703" duration="50000" />
+      <workItem from="1658726327648" duration="23000" />
+      <workItem from="1658793777618" duration="15000" />
+      <workItem from="1659236131884" duration="5503000" />
+      <workItem from="1659701151564" duration="33427000" />
+      <workItem from="1659837351525" duration="10041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="85" width="1151" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657092856340">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="176" y="85" width="1151" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1657092856340" />
+    <state x="526" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1659844040042">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="526" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1659844040042" />
+    <state x="335" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1658044510292">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="335" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.860@0.0.1440.860" timestamp="1658044510292" />
+    <state x="451" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1656992394598">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="451" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1656992394598" />
+    <state x="55" y="225" key="#xdebugger.evaluate" timestamp="1656764025268">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="55" y="225" key="#xdebugger.evaluate/0.0.1440.860@0.0.1440.860" timestamp="1656764025268" />
+    <state width="504" height="466" key="DebuggerActiveHint" timestamp="1658664285981">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="504" height="466" key="DebuggerActiveHint/0.0.1440.860@0.0.1440.860" timestamp="1658664285981" />
+    <state x="534" y="186" key="FileChooserDialogImpl" timestamp="1656914804296">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="534" y="186" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1656914804296" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1659852578204">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1659852578204" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1659852578204">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1659852578204" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1659852578203">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1659852578203" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1659852578204">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1659852578204" />
+    <state width="1398" height="341" key="GridCell.Tab.1.bottom" timestamp="1659846976952">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="341" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1659846976952" />
+    <state width="1398" height="341" key="GridCell.Tab.1.center" timestamp="1659846976951">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="341" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1659846976951" />
+    <state width="1398" height="341" key="GridCell.Tab.1.left" timestamp="1659846976951">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="341" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1659846976951" />
+    <state width="1398" height="341" key="GridCell.Tab.1.right" timestamp="1659846976952">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="341" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1659846976952" />
+    <state width="1398" height="341" key="GridCell.Tab.2.bottom" timestamp="1659846976952">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="341" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1659846976952" />
+    <state width="1398" height="341" key="GridCell.Tab.2.center" timestamp="1659846976952">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="341" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1659846976952" />
+    <state width="1398" height="341" key="GridCell.Tab.2.left" timestamp="1659846976952">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="341" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1659846976952" />
+    <state width="1398" height="341" key="GridCell.Tab.2.right" timestamp="1659846976952">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="341" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1659846976952" />
+    <state width="1398" height="319" key="GridCell.Tab.3.bottom" timestamp="1658102671052">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="319" key="GridCell.Tab.3.bottom/0.0.1440.860@0.0.1440.860" timestamp="1658102671052" />
+    <state width="1398" height="319" key="GridCell.Tab.3.center" timestamp="1658102671052">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="319" key="GridCell.Tab.3.center/0.0.1440.860@0.0.1440.860" timestamp="1658102671052" />
+    <state width="1398" height="319" key="GridCell.Tab.3.left" timestamp="1658102671052">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="319" key="GridCell.Tab.3.left/0.0.1440.860@0.0.1440.860" timestamp="1658102671052" />
+    <state width="1398" height="319" key="GridCell.Tab.3.right" timestamp="1658102671052">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="319" key="GridCell.Tab.3.right/0.0.1440.860@0.0.1440.860" timestamp="1658102671052" />
+    <state x="222" y="72" key="SettingsEditor" timestamp="1656305222077">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="222" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1656305222077" />
+    <state width="726" height="436" key="XDebugger.FullValuePopup" timestamp="1656763340421">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="726" height="436" key="XDebugger.FullValuePopup/0.0.1440.860@0.0.1440.860" timestamp="1656763340421" />
+    <state x="399" y="162" width="641" height="534" key="find.popup" timestamp="1659831188313">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="399" y="162" width="641" height="534" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1659831188313" />
+    <state x="86" y="125" key="new project wizard" timestamp="1657092025212">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="86" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1657092025212" />
+    <state x="380" y="198" key="run.anything.popup" timestamp="1658650957689">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="380" y="198" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1658650957689" />
+    <state x="386" y="92" width="672" height="676" key="search.everywhere.popup" timestamp="1659748018704">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="386" y="92" width="672" height="676" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1659748018704" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CampusMarket$StoreServiceApplication.ic" NAME="StoreServiceApplication Coverage Results" MODIFIED="1659701179586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CampusMarket$SystemApplication.ic" NAME="SystemApplication Coverage Results" MODIFIED="1658043974750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yjq.programmer.*</FILTER>
+    </SUITE>
+  </component>
+</project>
